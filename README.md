@@ -16,7 +16,7 @@
 https://user-images.githubusercontent.com/61516051/117405909-fa223d80-af29-11eb-8d34-44c398f77d6d.mp4
 
 <p align="center">
-    <a href="https://khansakir18.github.io/CoronaTracker/" target="blank">View Demo</a>
+    <a href="https://ashish2030.github.io/Corona-Tracker/" target="blank">View Demo</a>
     ·
     <a href="https://github.com/ashish2030/CoronaTracker/issues/new/choose">Report Bug</a>
     ·
